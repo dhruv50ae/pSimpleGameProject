@@ -39,7 +39,3 @@ while clueReport != "Code cracked!":
     print("Here's the result of your guess: ")
     for clue in clueReport:
         print(clue)
-
-
-x = getGuess()
-print(x)
